@@ -2,7 +2,7 @@ import React, {useState} from "react";
 import AlumniCard from "./AlumniCard";
 
 import Rachit from "@site/static/img/alumni/rachit.png"
-import Rithvik from "@site/static/img/alumni/Rithvik.png"
+import Rithvik from "@site/static/img/alumni/rithvik.png"
 
 function AlumniCarousel() {
     const alumni = [
